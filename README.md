@@ -1,3 +1,7 @@
+# Important
+
+## This version of html-minifier is no longer maintained. For an up-to-date version [which includes critical security fixes](https://meiert.com/blog/html-minifier-next/), please use [html-minifier-next](https://github.com/j9t/html-minifier-next) by @j9t.
+
 # HTMLMinifier
 
 [![npm version](https://img.shields.io/npm/v/html-minifier.svg)](https://www.npmjs.com/package/html-minifier)
