@@ -1,6 +1,6 @@
 # Important
 
-## This version of html-minifier is no longer maintained. For an up-to-date version [which includes critical security fixes](https://meiert.com/blog/html-minifier-next/), please use [html-minifier-next](https://github.com/j9t/html-minifier-next) by @j9t.
+## ⚠️ This version of html-minifier is no longer maintained. For an up-to-date version with [new features and critical security fixes](https://github.com/j9t/html-minifier-next/blob/main/CHANGELOG.md), use [HTML Minifier Next (HMN)](https://github.com/j9t/html-minifier-next) ([@j9t](https://meiert.com/)).
 
 # HTMLMinifier
 
